@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "DIE",
+  "base_artist": "KOTA",
+  "createdAt": "2025-12-07T01:59:50.388880Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Die Young",
+      "artist": "Kesha",
+      "has_synced": true,
+      "path": "select/01_Die_Young_Kesha.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "If I Die Young",
+      "artist": "The Band Perry",
+      "has_synced": true,
+      "path": "select/02_If_I_Die_Young_The_Band_Perry.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Legends Never Die (Alan Walker Remix)",
+      "artist": "League of Legends feat. Alan Walker, Against The Current & Mako",
+      "has_synced": true,
+      "path": "select/03_Legends_Never_Die_(Alan_Walker_Remix)_League_of_Legends_feat._Alan_Walker,_Against_The_Current_&_Mako.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Legends Never Die (Alan Walker Remix)",
+      "artist": "League of Legends;Alan Walker;Against The Current;Mako",
+      "has_synced": true,
+      "path": "select/04_Legends_Never_Die_(Alan_Walker_Remix)_League_of_Legends;Alan_Walker;Against_The_Current;Mako.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Die A Happy Man",
+      "artist": "Thomas Rhett",
+      "has_synced": true,
+      "path": "select/05_Die_A_Happy_Man_Thomas_Rhett.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Die From A Broken Heart",
+      "artist": "Maddie & Tae",
+      "has_synced": true,
+      "path": "select/06_Die_From_A_Broken_Heart_Maddie_&_Tae.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "If the Good Die Young",
+      "artist": "Tracy Lawrence",
+      "has_synced": true,
+      "path": "select/07_If_the_Good_Die_Young_Tracy_Lawrence.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "If the Good Die Young (Album Version)",
+      "artist": "Tracy Lawrence",
+      "has_synced": true,
+      "path": "select/08_If_the_Good_Die_Young_(Album_Version)_Tracy_Lawrence.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Legends Never Die - with Shania Twain",
+      "artist": "Orville Peck feat. Shania Twain",
+      "has_synced": true,
+      "path": "select/09_Legends_Never_Die_-_with_Shania_Twain_Orville_Peck_feat._Shania_Twain.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Legends Never Die (with Shania Twain)",
+      "artist": "Orville Peck",
+      "has_synced": true,
+      "path": "select/10_Legends_Never_Die_(with_Shania_Twain)_Orville_Peck.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Live Until I Die",
+      "artist": "Clay Walker",
+      "has_synced": true,
+      "path": "select/11_Live_Until_I_Die_Clay_Walker.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Live Until I Die (Album Version)",
+      "artist": "Clay Walker",
+      "has_synced": true,
+      "path": "select/12_Live_Until_I_Die_(Album_Version)_Clay_Walker.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Prop Me Up Beside the Jukebox (If I Die)",
+      "artist": "Joe Diffie",
+      "has_synced": true,
+      "path": "select/13_Prop_Me_Up_Beside_the_Jukebox_(If_I_Die)_Joe_Diffie.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Prop Me Up Beside The Jukebox (If I Die) (Album Version)",
+      "artist": "Joe Diffie",
+      "has_synced": true,
+      "path": "select/14_Prop_Me_Up_Beside_The_Jukebox_(If_I_Die)_(Album_Version)_Joe_Diffie.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Prop Me Up Beside The Jukebox (If I Die) (Album Version)",
+      "artist": "Joe Diffie",
+      "has_synced": true,
+      "path": "select/15_Prop_Me_Up_Beside_The_Jukebox_(If_I_Die)_(Album_Version)_Joe_Diffie.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "DIE",
+      "artist": "KOTA, KZHI",
+      "has_synced": false,
+      "path": "select/pl_01_DIE_KOTA,_KZHI.txt"
+    }
+  ]
+}
